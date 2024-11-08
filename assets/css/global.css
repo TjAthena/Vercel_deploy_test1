@@ -1049,7 +1049,7 @@ img{
 	font-style: italic;
     display: inline-block;
     font-family: 'Lora', serif;
-    text-transform: lowercase;
+    text-transform: uppercase;
 }
 
 .sec-title.style-four .sec-title_heading span::before{
