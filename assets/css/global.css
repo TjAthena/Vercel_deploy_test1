@@ -895,6 +895,7 @@ img{
 
 .sec-title_heading{
 	margin-top: 15px;
+	width: auto;
     color: var(--white-color);
 }
 
